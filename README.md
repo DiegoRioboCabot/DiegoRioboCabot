@@ -6,12 +6,12 @@ Argentinian living in Vienna, Austria.
 ## Languages
 
 #### - Already know:
-  1. ** Data Science: ** Python | R | MySQL | VBA
+  1. **Data Science:** Python | R | MySQL | VBA
 
 #### - Working on learning:
-  2. ** Soft Dev: ** JavaScript | C++
-  3. ** Big Data: ** Spark | AWS
-  4. ** Deep Learning: ** Tensorflow 2.0 | PyTorch
+  2. **Soft Dev:** JavaScript | C++
+  3. **Big Data:** Spark | AWS
+  4. **Deep Learning:** Tensorflow 2.0 | PyTorch
 
 <!--
 **DiegoRioboCabot/DiegoRioboCabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
